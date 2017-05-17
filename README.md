@@ -5,10 +5,14 @@ just a template, not a description at all
 One Paragraph of project description goes here
 Getting Started
 
+https://github.com/seodomination/walkieTalkie-1
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 Prerequisites
 
 What things you need to install the software and how to install them
+
+https://bitbucket.org/seodomination/walkietalkie
 
 Give examples
 
@@ -21,8 +25,12 @@ Say what the step will be
 Give the example
 
 And repeat
-
-until finished
+* https://bbpress.org/forums/profile/walkietalkieuk/
+* https://www.pinterest.com/walkietalkieuk/
+* http://en.gravatar.com/walkietalkieuk
+* https://community.linksys.com/t5/user/viewprofilepage/user-id/806431
+* https://storify.com/walkietalkieuk
+* until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 Running the tests
@@ -33,6 +41,12 @@ Break down into end to end tests
 Explain what these tests test and why
 
 Give an example
+
+* https://www.slideshare.net/walkietalkieuk
+* http://walkietalkieuk.livejournal.com/profile
+* http://www.scoop.it/u/walkietalkieuk
+* http://profiles.wordpress.org/walkietalkieuk/
+* https://walkietalkieuk.wordpress.com/
 
 And coding style tests
 
@@ -50,6 +64,12 @@ Built With
     ROME - Used to generate RSS Feeds
 
 Contributing
+
+* http://findit.rugbyadvertiser.co.uk/company/950866623086592
+* http://findit.thametoday.co.uk/company/950866623086592
+* http://pageze.com/b/gb/london/shops/6964355/radio-hire
+* http://www.opticiengids.nl/places/radio-hire-greater-london
+* http://www.kappergids.nl/places/radio-hire-greater-london
 
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 Versioning
